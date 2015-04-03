@@ -1,0 +1,16 @@
+{
+   "displayName": "Soul of destruction",
+   "size": [32,32],
+   "maxStack": 999,
+   "value": [0,8,2,95],
+   "rare": 6,
+   "noGravity": true,
+   "tooltip": "'The soul of destruction and darkness'",
+
+   "recipes":
+[{
+        "items": {"Dirt Block": 1},
+        "tiles": [ "Work Bench" ],
+        "creates": 1
+}]
+}

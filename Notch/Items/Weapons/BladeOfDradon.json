@@ -1,0 +1,23 @@
+{
+   "displayName": "Blade of Dradonhunter11",
+   "size": [600,600],
+   "maxStack": 1,
+   "value": [0,0,0,0],
+   "tooltip": "You shouldn't have this",
+   "useStyle": 1,
+   "useAnimation": 16,
+   "useTime": 1,
+   "damage": 50000000,
+   "knockback": 0,
+   "useSound": 2,
+   "autoReuse": true,
+   "melee": true,
+   "shoot": "Notch:CrismonTile",
+   
+   "recipes":
+   [{
+	  "items": { "Dirt Block": 1 },
+	  "tiles": [ "Work Bench" ],
+	  "creates": 1
+   }]
+}

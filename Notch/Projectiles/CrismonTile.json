@@ -1,0 +1,12 @@
+{
+   "displayName": "Crismon Tile",
+   "size": [20,25],
+   "aiStyle": 18,
+   "timeLeft": 3600,
+   "friendly": true,
+   "hostile": false,
+   "tileCollide": false,
+   "damage": 140,
+   "magic": true,
+   "maxUpdates": 1
+}

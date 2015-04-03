@@ -1,0 +1,26 @@
+{
+   "displayName": "Wave Gun",
+   "size": [52,26],
+   "maxstack": 1,
+   "value": [0,10,0,0],
+   "tooltip": "Shoot Wave at enemy",
+   "useStyle": 5,
+   "useAnimation": 10,
+   "useTime": 26,
+   "useSound": 14,
+   "damage": 150,
+   "knockback": 90,
+   "autoReuse": true,
+   "noMelee": true,
+   "shoot": "Notch:Wave",
+   "shootSpeed": 5,
+   "magic": true,
+   "mana": 100,
+   
+   "recipes":
+   [{
+   "items": { "Notch:Soulofdestruction": 25, "Proximity Mine Launcher": 1, "Spell Tome": 5 },
+   "tiles": [ "Work Bench" ],
+   "creates": 1
+   }]
+}

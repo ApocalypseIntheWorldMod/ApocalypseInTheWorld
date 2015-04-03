@@ -1,0 +1,25 @@
+{
+   "displayName": "Ocram",
+   "size": [110,162],
+   "value": [0,50,0,0],
+   "npcSlots": 58,
+   "aiStyle": 31,
+   "animationType": 126,
+   "lifeMax": 37500,
+   "damage": 302,
+   "frameCount": 6,
+   "soundHit": 9,
+   "soundKilled": 9,
+   "knockbackResist": 0,
+   "noGravity": true,
+   "boss": true,
+   
+   "drops":
+   [
+      {
+	     "item": "Soul of night",
+		 "chance": 1,
+		 "stack": 20
+      }
+   ]
+}

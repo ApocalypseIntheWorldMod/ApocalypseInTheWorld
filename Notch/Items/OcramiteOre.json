@@ -1,0 +1,15 @@
+{
+    "displayName": "Ocramite Ore",
+	"size": [32,32],
+	"maxStack": 999,
+	"value": [0,0,50,0],
+	"rare": 8,
+	"tooltip": "A part of Ocram in this ore",
+	"useStyle": 1,
+	"useTurn": true,
+	"useTime": 10,
+	"useAnimation": 15,
+	"autoReuse": true,
+	"consumable": true,
+	"createTile": "Notch:OcramiteOre"
+}

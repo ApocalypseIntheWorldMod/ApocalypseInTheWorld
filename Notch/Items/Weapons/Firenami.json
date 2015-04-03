@@ -1,0 +1,26 @@
+{
+   "displayName": "Firenami",
+   "size": [28,58],
+   "maxStack": 1,
+   "value": [0,10,0,0],
+   "shoot": 5,
+   "useAmmo": 1,
+   "useStyle": 5,
+   "useSound": 5,
+   "damage": 130,
+   "shootSpeed": 79,
+   "useTime": 20,
+   "noMelee": false,
+   "rare": 8,
+   "ranged": true,
+   "tooltip": "A very Fiery bow",
+   
+   "recipes":
+   [{
+      "items": { "Tsunami": 1, "Soul of Might": 20, "Living Fire Block": 100 },
+	  "tiles": [ "Work Bench" ],
+	  "creates": 1
+   }]
+   
+   
+}

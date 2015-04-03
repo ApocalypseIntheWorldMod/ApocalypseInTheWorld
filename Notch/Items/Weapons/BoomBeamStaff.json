@@ -1,0 +1,25 @@
+{
+   "displayName": "Boom Beam Staff",
+   "size": [48,48],
+   "maxStack": 1,
+   "value": [0,1,0,0],
+   "tooltip": "Beam of Boom",
+   "useStyle": 5,
+   "useAnimation": 10,
+   "useTime": 9,
+   "useSound": 20,
+   "damage": 90,
+   "knockback": 4,
+   "shoot": 290,
+   "noMelee": true,
+   "autoReuse": true,
+   "magic": true,
+   "mana": 7,
+   
+   "recipes":
+   [{
+        "items": { "Shadowbeam Staff": 1, "Inferno Fork": 1, "Ectoplasm": 40 },
+		"Tiles": [ "Tinkerer's Workshop" ],
+		"creates": 1
+   }]
+}

@@ -1,0 +1,16 @@
+{
+    "displayName": "Apocalyspe Dirt",
+    "size": [1,1],
+    "solid": true,
+    "breaksByPick": true,
+    "ratePick": 0.5,
+    "blocksLight": true,
+    "blocksSun": true,
+    "shinyChance": 600,
+    "mergeDirt": true,
+    "sound": 1,
+    "sounGroup": 21,
+    "dust": 128,
+    "mapColor": [100,210,100],
+    "drop": "Notch:OcramiteOre"
+}

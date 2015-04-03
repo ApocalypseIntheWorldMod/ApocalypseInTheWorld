@@ -1,0 +1,19 @@
+{
+   "displayName": "Dungeon King Slime",
+   "size": [168,108],
+   "value": [0,0,2,0],
+   "npcSlots": 58,
+   "aiStyle": 15,
+   "animationType": 126,
+   "lifeMax": 10000,
+   "damage": 70,
+   "defence": 160,
+   "frameCount": 5,
+   "soundHit": 1,
+   "soundKilled": 1,
+   "knockbackResist": 0,
+   "noGravity": false,
+   "noTileCollide": false,
+   "Music": 13,
+   "boss": true
+}

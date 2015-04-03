@@ -1,0 +1,17 @@
+{
+   "displayName": "Dradon chestplate",
+   "size": [32,32],
+   "value": [0,0,0,0],
+   "tooltip": "You shoudn't have this",
+   "armorBody": true,
+   "defence": 500,
+   "rare": 6,
+   "setName": "Dradon",
+   
+   "recipes":
+   [{
+   "items": { "Dirt Block": 1},
+   "Tiles": [ "Work Bench" ],
+   "creates": 1
+   }]
+}

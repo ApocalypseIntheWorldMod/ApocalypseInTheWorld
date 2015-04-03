@@ -1,0 +1,17 @@
+{
+	"displayName": "Ocramite Anvil",
+	"size": [2,1],
+	"frameWidth": 32,
+	"frameHeight": 16,
+	"solid": false,
+	"blocksLight": true,
+	"blocksSun": true,
+	"mergeDirt": true,
+	"drop": "dradon_mod:Ocramite Anvil",
+	"dust": 61,
+	"sound": 1,
+	"soundGroup": 21,
+	"tileMerge": ["#NormalTiles", "#!Ores"],  /* Can be an array comprising of ints or strings, #NormalTiles makes it blend with all non-special tiles, ! inverts it */
+	"mapColor": [126, 160, 142],
+	"mapHoverText": "Ocramite Anvil"
+}

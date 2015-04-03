@@ -1,0 +1,18 @@
+{
+   "displayName": "Rainbow King Slime",
+   "size": [168,108],
+   "value": [0,0,2,0],
+   "npcSlots": 58,
+   "animationType": 126,
+   "lifeMax": 15000,
+   "damage": 100,
+   "defence": 160,
+   "frameCount": 5,
+   "soundHit": 1,
+   "soundKilled": 1,
+   "knockbackResist": 0,
+   "noGravity": false,
+   "noTileCollide": false,
+   "Music": 13,
+   "boss": true
+}

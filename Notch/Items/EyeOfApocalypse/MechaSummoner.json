@@ -1,0 +1,21 @@
+{
+   "displayName": "Mecha Summoner",
+   "size": [30,20],
+   "maxStack": 20,
+   "value": [0,0,0,0],
+   "rare": 7,
+   "useStyle": 2,
+   "useAnimation": 15,
+   "useTime": 56,
+   "autoReuse": false,
+   "useTurn": false,
+   "tooltip": "Summon the mecha trio in the world",
+   "consumable": true,
+   
+   "recipes":
+   [{
+   "items": { "Lens": 3, "Soul of Light": 30, "Soul of Night": 30, "Bone": 30 },
+   "tiles": [ "Mythril Anvil" ],
+   "creates": 1
+   }]
+}

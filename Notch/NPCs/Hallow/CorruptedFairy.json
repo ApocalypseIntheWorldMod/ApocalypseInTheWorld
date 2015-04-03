@@ -1,0 +1,21 @@
+{
+   "displayName": "Corrupted Fairy",
+   "size": [16,22],
+   "value": [0,1,0,0],
+   "npcSlots": 15,
+   "lifeMax": 900,
+   "damage": 50,
+   "defence": 100,
+   "frameCount": 2,
+   "noGravity": true,
+   "soundHit": 5,
+   "soundKilled": 7,
+   "drop":
+   [
+   {
+   "item": "Holy Water",
+   "chance": 1,
+   "stack": 5
+   }
+   ]
+}

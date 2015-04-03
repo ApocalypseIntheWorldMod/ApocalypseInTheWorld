@@ -1,0 +1,21 @@
+{
+   "displayName": "Apocalypsio",
+   "size": [30,20],
+   "maxStack": 20,
+   "value": [0,0,0,0],
+   "rare": 7,
+   "useStyle": 2,
+   "useAnimation": 15,
+   "useTime": 56,
+   "autoReuse": false,
+   "useTurn": false,
+   "tooltip": "Summon the apocalypse over the world",
+   "consumable": true,
+   
+   "recipes":
+   [{
+   "items": { "Lens": 30, "Soul of Night": 30, "Soul of Might": 20, "Soul of Fright": 20, "Soul of Sight": 20, "Soul of Light": 30 },
+   "tiles": [ "Work Bench" ],
+   "creates": 2
+   }]
+}
